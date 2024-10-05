@@ -1228,6 +1228,7 @@ video .tex P{
   padding-top: calc(100px /2);
   padding-bottom: calc(100px /2); 
   background-image: url(../image-2/a9718599f0be9800ff463f73700567be.jpg);
+  background-size: cover;
   width: 100%;
   position: relative;
   color: white;
